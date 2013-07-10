@@ -55,3 +55,6 @@
 [submodule "bundle/vim-surround"]
 	path = bundle/vim-surround
 	url = https://github.com/tpope/vim-surround.git
+[submodule "bundle/vim-scratch"]
+	path = bundle/vim-scratch
+	url = https://github.com/duff/vim-scratch.git
