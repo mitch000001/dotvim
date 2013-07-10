@@ -10,3 +10,6 @@
 [submodule "bundle/vim-git"]
 	path = bundle/vim-git
 	url = git@github.com:tpope/vim-git.git
+[submodule "bundle/vim-gitgutter"]
+	path = bundle/vim-gitgutter
+	url = git://github.com/airblade/vim-gitgutter.git
