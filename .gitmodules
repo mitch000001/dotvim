@@ -73,3 +73,6 @@
 [submodule "bundle/vim-unimpaired"]
 	path = bundle/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
+[submodule "bundle/xterm-color-table.vim"]
+	path = bundle/xterm-color-table.vim
+	url = https://github.com/guns/xterm-color-table.vim.git
