@@ -76,3 +76,6 @@
 [submodule "bundle/xterm-color-table.vim"]
 	path = bundle/xterm-color-table.vim
 	url = https://github.com/guns/xterm-color-table.vim.git
+[submodule "bundle/tabular"]
+	path = bundle/tabular
+	url = https://github.com/godlygeek/tabular.git
