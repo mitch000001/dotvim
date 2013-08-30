@@ -1,0 +1,12 @@
+#!/bin/bash
+
+cd ~/.vim
+
+remote_latest_ref=$(git log --pretty=format:%H -n 1 origin)
+local_latest_ref=$(git log --pretty=format:%H -n 1)
+
+if [ "$remote_latest_ref" != "$local_latest_ref" ]
+then
+  echo 'Updating repository...'
+  git pull --rebase
+fi
