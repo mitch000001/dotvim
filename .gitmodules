@@ -69,7 +69,7 @@
 	url = https://github.com/mileszs/ack.vim.git
 [submodule "bundle/command-t"]
 	path = bundle/command-t
-	url = http://git.wincent.com/command-t.git
+	url = git://git.wincent.com/command-t.git
 [submodule "bundle/vim-unimpaired"]
 	path = bundle/vim-unimpaired
 	url = https://github.com/tpope/vim-unimpaired.git
