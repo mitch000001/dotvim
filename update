@@ -9,5 +9,5 @@ if [ "$remote_latest_ref" != "$local_latest_ref" ]
 then
   echo 'Updating repository...'
   git pull --rebase
-  git submodules update --init
+  git submodule update --init
 fi
