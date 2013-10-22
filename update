@@ -1,6 +1,7 @@
 #!/bin/bash
 
 cd ~/.vim
+git fetch -q
 
 remote_latest_ref=$(git log --pretty=format:%H -n 1 origin)
 local_latest_ref=$(git log --pretty=format:%H -n 1)
