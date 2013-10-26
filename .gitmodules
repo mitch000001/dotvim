@@ -103,3 +103,6 @@
 [submodule "bundle/vim-lucius"]
 	path = bundle/vim-lucius
 	url = https://github.com/jonathanfilip/vim-lucius.git
+[submodule "bundle/gundo.vim"]
+	path = bundle/gundo.vim
+	url = https://github.com/sjl/gundo.vim.git
