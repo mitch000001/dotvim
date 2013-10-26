@@ -86,7 +86,7 @@
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
 [submodule "vim-javascript"]
-	path = vim-javascript
+	path = bundle/vim-javascript
 	url = https://github.com/vim-scripts/vim-javascript.git
 [submodule "bundle/vim-cucumber"]
 	path = bundle/vim-cucumber
