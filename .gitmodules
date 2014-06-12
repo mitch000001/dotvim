@@ -115,3 +115,6 @@
 [submodule "bundle/vim-rspec"]
 	path = bundle/vim-rspec
 	url = https://github.com/thoughtbot/vim-rspec.git
+[submodule "bundle/vim-powerline"]
+	path = bundle/vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
