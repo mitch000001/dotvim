@@ -127,3 +127,6 @@
 [submodule "bundle/vim-abolish"]
 	path = bundle/vim-abolish
 	url = https://github.com/tpope/vim-abolish.git
+[submodule "bundle/vim-mustache-handlebars"]
+	path = bundle/vim-mustache-handlebars
+	url = https://github.com/mustache/vim-mustache-handlebars.git
