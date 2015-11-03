@@ -109,3 +109,6 @@
 [submodule "bundle/pangloss-vim-javascript"]
 	path = bundle/pangloss-vim-javascript
 	url = https://github.com/pangloss/vim-javascript.git
+[submodule "bundle/vim-commentary"]
+	path = bundle/vim-commentary
+	url = https://github.com/tpope/vim-commentary.git
