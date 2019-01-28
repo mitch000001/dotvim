@@ -1,3 +1,8 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =1
-let g:netrw_dirhist_1='/usr/local/share/bash-completion'
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/Users/mitch/workspace/seetours-next'
+let g:netrw_dirhist_2='/Users/mitch/workspace/seetours-next/static'
+let g:netrw_dirhist_3='/Users/mitch/workspace/seetours-next/static/images'
+let g:netrw_dirhist_4='/Users/mitch/workspace/seetours-next'
+let g:netrw_dirhist_5='/Users/mitch/workspace/seetours-next/static'
+let g:netrw_dirhist_6='/Users/mitch/workspace/seetours-next/static/images'
